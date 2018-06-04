@@ -1,2 +1,2 @@
-# Prime Number MR Sieve-Vector
-Slower MRSieve program for larger numbers.
+# Prime Number MM Sieve-Vector
+Slower MMSieve program for larger numbers.
